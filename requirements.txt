@@ -1,0 +1,35 @@
+# Web Framework
+Flask==2.3.3
+flask-cors==4.0.0
+
+# Database
+mysql-connector-python==8.2.0
+
+# Data Processing
+pandas==2.1.3
+openpyxl==3.1.2
+
+# Date/Time handling
+python-dateutil==2.8.2
+
+# PDF Generation
+reportlab==4.0.7
+
+# Email functionality
+# Built-in smtplib and email modules (no installation needed)
+
+# Web Scraping
+beautifulsoup4==4.12.2
+
+# Image Processing
+Pillow==10.1.0
+pillow-heif==0.13.0
+
+# File Operations
+# Built-in os, shutil, glob modules (no installation needed)
+
+# JSON and other built-ins
+# json, subprocess, itertools, re, datetime modules are built-in
+
+# Additional utilities that might be needed
+requests==2.31.0
